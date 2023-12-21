@@ -29,7 +29,7 @@ public:
             "com.rekoo.pubgm",
             "com.pubg.imobile",
             "com.pubg.krmobile",
-            "com.vng.pubgmobile",
+            "com.tencent.tmgp.pubgmhd",
         };
 
         // chinese version doesn't have GNames encrypted but FNameEntry* is encrypted
